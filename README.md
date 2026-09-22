@@ -53,8 +53,6 @@ Figma — Design interpretation and style guide adherence
 
 Frontend Mentor — Challenge specifications and assets
 
-Tailwind - A utility-first CSS library
-
 ## ✅ Assessment Criteria Met
 ☑ Matches design precisely — pixel-perfect alignment, spacing, and sizing
 ☑ CSS well-organized and matches style guide (colors, fonts, sizes)
